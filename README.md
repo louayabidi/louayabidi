@@ -74,7 +74,7 @@ I'm a motivated student with a strong passion for learning. I enjoy exploring ne
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/louay abidi" target="blank">
+  <a href="https://www.linkedin.com/in/louay-abidi-742551289" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louay abidi" height="30" width="40" />
   </a>
   
