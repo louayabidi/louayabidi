@@ -154,4 +154,12 @@ const louay = {
 
 *"First, solve the problem. Then, write the code." – John Johnson*
 
+
+
+
+
 </div>
+
+
+![snake gif](https://github.com/louayabidi/louayabidi/blob/output/github-snake-dark.svg)
+
