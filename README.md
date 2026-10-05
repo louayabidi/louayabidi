@@ -132,7 +132,7 @@ const louay = {
 
 ### 💬 Let's Connect and Build Something Amazing Together!
 
-**📧 Email:** louay.abidi@esprit.tn  
+**📧 Email:** lou.abidi00@gmail.com 
 **🔗 LinkedIn:** [Louay Abidi](https://www.linkedin.com/in/louay-abidi-742551289)
 
 ---
